@@ -148,7 +148,7 @@ Screenshot evidence:
 ![Test5 check](screenshotsngifs/Test5.png)
 
 ### Summary
-I encountered many problems while debugging and writing the code itself, but as a result of all that grit, I was not surprised when the application correctly sorted bus stops under normal and edge-case conditions, maintained stability when values were equal, and properly handlesd invalid inputs by displaying clear error messages. The goal was to pushand solve the bugs, so that the user wouldn't encounter any. I am somewhat satisfied with my standing in terms of this goal. 
+I encountered many problems while debugging and writing the code itself, but as a result of all that grit, I was not surprised when the application correctly sorted bus stops under normal and edge-case conditions, maintained stability when values were equal, and properly handlesd invalid inputs by displaying clear error messages. The goal was to push and solve the bugs, so that the user wouldn't encounter any. I am somewhat satisfied with my standing in terms of this goal. 
 Cool calm and collected, mission completed. 
 
 ---
