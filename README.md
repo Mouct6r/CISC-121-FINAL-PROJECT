@@ -152,4 +152,4 @@ Cool calm and collected, mission completed.
 Author: Mouctar Diallo 
 
 AI Use:
-AI tools (ChatGPT) were used to assist with debugging, UI design improvements, and documentation refinement. All algorithm logic and final implementation decisions were my own.
+AI tools (ChatGPT) were used to assist with debugging, gaining more familarity with gradio , and documentation refinement. All algorithm logic and final implementation decisions were my own.
