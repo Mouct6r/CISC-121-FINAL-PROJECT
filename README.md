@@ -4,6 +4,12 @@
 
 This app solves the **Shuttle Stop Crowd Ranking** problem by ranking campus shuttle stops based on crowd count. The goal is to determine where an extra shuttle should be sent to reduce congestion.
 
+## Real-World Relevance
+
+This problem reflects a real-world scenario in transit systems, where operators must decide how to allocate limited resources (such as extra buses) based on demand.
+
+By ranking stops according to crowd levels, this system helps identify where congestion is highest, allowing for more efficient decision-making.
+
 ## Chosen Algorithm
 
 This project uses **Merge Sort** to rank stops by crowd count.
@@ -142,7 +148,7 @@ Screenshot evidence:
 ![Test5 check](screenshotsngifs/Test5.png)
 
 ### Summary
-Prior to creating app.py I wanted to make sure all the code in this file knew its place, with I being the ultimate ruler, and the code being my royal pawns. Therefore I was not surprised when the application correctly sorted stops under normal and edge-case conditions, maintained stability when values were equal, and properly handlesd invalid inputs by displaying clear error messages. 
+I encountered many problems while debugging and writing the code itself, but as a result of all that grit, I was not surprised when the application correctly sorted bus stops under normal and edge-case conditions, maintained stability when values were equal, and properly handlesd invalid inputs by displaying clear error messages. The goal was to pushand solve the bugs, so that the user wouldn't encounter any. I am somewhat satisfied with my standing in terms of this goal. 
 Cool calm and collected, mission completed. 
 
 ---
@@ -152,4 +158,4 @@ Cool calm and collected, mission completed.
 Author: Mouctar Diallo 
 
 AI Use:
-AI tools (ChatGPT) were used to assist with debugging, gaining more familarity with gradio , and documentation refinement. All algorithm logic and final implementation decisions were my own.
+AI tools (ChatGPT) were used to assist with debugging, gaining more familiarity with gradio , and documentation refinement. All algorithm logic and final implementation decisions were my own.
